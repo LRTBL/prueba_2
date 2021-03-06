@@ -1,0 +1,18 @@
+export default {
+  PRIMARY: '#460054',
+  PRIMARY_LIGHT: '#ece6ed',
+  PRIMARY_DARK: '#580d64',
+  PRIMARY_GRADIEND: 'rgba(101,37,112,0.9)',
+  SECONDARY: '#ff0034',
+  YELLOW: '#ffba32',
+  YELLOW_GRADIEND: 'rgba(240,170,56,0.92)',
+  BLUE: '#2d57d2',
+  GREEN: '#00c019',
+  GREEN_LIGHT: '#e8fae8',
+  GREEN_GRADIEND: 'rgba(0,199,53,0.93)',
+  WHITE: '#FFF',
+  BLACK: '#000',
+  GREY: '#efefef',
+  GREY_GRADIEND: 'rgba(50,50,50,0.9)',
+  DARK_GREY: '#707070',
+};
